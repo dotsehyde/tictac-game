@@ -14,4 +14,12 @@ Finally `flutter run` in your terminal
 
 ## Screenshots
 
+<img src="screenshots/1.png"/>
+<img src="screenshots/2.png"/>
+<img src="screenshots/3.png"/>
+<img src="screenshots/4.png"/>
+<img src="screenshots/5.png"/>
+
+### PRs are opened :r
+
 </div>
