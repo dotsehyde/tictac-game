@@ -19,7 +19,8 @@ Finally `flutter run` in your terminal
 <img src="screenshots/3.png"/>
 <img src="screenshots/4.png"/>
 <img src="screenshots/5.png"/>
+<img src="screenshots/6.png"/>
 
-### PRs are opened :r
+### PRs are opened :)
 
 </div>
