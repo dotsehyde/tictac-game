@@ -175,6 +175,12 @@ class _MyHomePageState extends State<MyHomePage> {
                       for (int i = 0; i < 9; i++)
                         InkWell(
                           onTap: () {
+                            if(tiles[i]!=0){
+                              ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+                                content: Text("Please select another grid"),
+                              ));
+                              return;
+                            }
                             setState(() {
                               tiles[i] = 1;
                               gameEngine();
